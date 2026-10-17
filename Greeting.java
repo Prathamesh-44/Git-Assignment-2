@@ -7,7 +7,7 @@ public class Greeting{
 		System.out.println("Enter username: ");
 		String username = sc.nextLine();
 
-		System.out.println("Hello " + username + "!");
+		System.out.println("Good Morning " + username + "!");
 		sc.close();
 	}
 }
